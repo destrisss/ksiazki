@@ -1,0 +1,545 @@
+body
+{
+
+  margin: 0;
+  background-image: url(img/ep_naturalblack.png);
+  
+  
+
+}
+
+.container
+{
+  
+  margin-left: auto;
+  margin-right: auto;
+  width: 1200px;
+  background-image: url(img/concrete_seamless.png);
+}
+
+
+.img
+{
+	position: relative;
+	
+	
+	
+	
+}
+
+.img img
+{
+	width: 100%;
+	
+}
+
+
+
+.logo
+{
+  position: absolute;	
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: #303030;
+  top: 10%;
+  left: 33%;
+  font-family: 'Oxygen', sans-serif;
+  
+}
+
+
+.minlog
+{
+	position: absolute;
+	top: 78%;
+	left: 22%;
+	color: gray;
+	font-size: 12px;
+}
+
+.menu
+{
+	position: absolute;
+	top: 200px;
+	left: 160px;
+	background-color: #0d0d0d;
+	padding: 27px;
+	border-radius: 50px;
+	font-size: 14px;
+	font-family: 'Cabin Condensed', sans-serif;
+	font-weight: 400;
+	letter-spacing: 2px;
+}
+
+
+
+
+
+.menu a
+{
+	
+	text-decoration: none;
+	color: gray;
+	margin: 40px;
+	
+}
+
+.menu a:hover
+{
+	color: white;
+	
+}
+
+.content
+{
+	
+	height: 2200px;
+	margin: 70px;
+	margin-left: 260px;
+	margin-top: 200px;
+	
+	
+	
+}
+.content h4
+{
+	
+	font-size: 18px;
+	font-family: 'Cabin Condensed', sans-serif;
+	position: relative;
+	left: -55px;
+	text-align: justify;
+	
+	
+}
+
+
+
+.cytat
+{
+	background-image: url(img/zig.png);
+	padding: 76px;
+	margin-top: -5px;
+	color: white;
+	font-family: 'Cabin Condensed', sans-serif;
+	
+}
+
+
+
+.cytat p
+{
+	text-align: right;
+	max-width: 66%;
+	position: relative;
+	left: 350px;
+}
+
+.content1
+{
+	max-width:480px;
+	height: 100%;
+	margin: 75px;
+	
+}
+
+.content img
+{
+	border-radius: 25px;
+	
+	
+	
+}
+
+.content h1
+{
+	font-family: 'Cabin Condensed', sans-serif;
+	font-weight: 700;
+}
+
+
+
+.content button 
+{
+	background-color: #303030;
+	border-radius: 25px;
+	color: white;
+	padding: 18px;
+	display: inline-block;
+	text-decoration: none;
+	border: none;
+	position: absolute;
+	top: 950px;
+	left: 375px;
+	font-size: 16px;
+	transition: transform 0.4s ease-in-out;
+	
+}
+
+.content button1
+{
+	background-color: #303030;
+	border-radius: 25px;
+	color: white;
+	padding: 18px;
+	display: inline-block;
+	text-decoration: none;
+	border: none;
+	position: absolute;
+	top: 950px;
+	left: 770px;
+	font-size: 16px;
+	transition: transform 0.4s ease-in-out;
+	
+}
+
+.content button3
+{
+	background-color: #303030;
+	border-radius: 25px;
+	color: white;
+	padding: 18px;
+	display: inline-block;
+	text-decoration: none;
+	border: none;
+	position: absolute;
+	top: 1550px;
+	left: 375px;
+	font-size: 16px;
+	transition: transform 0.4s ease-in-out;
+}
+
+.content button4
+{
+	background-color: #303030;
+	border-radius: 25px;
+	color: white;
+	padding: 18px;
+	display: inline-block;
+	text-decoration: none;
+	border: none;
+	position: absolute;
+	top: 540px;
+	left: 8px;
+	font-size: 16px;
+	transition: transform 0.4s ease-in-out;
+}
+
+.content button:hover
+{
+	cursor: pointer;
+	background-color: black;
+	transform: scale(0.95);
+}
+
+.content button1:hover
+{
+	cursor: pointer;
+	background-color: black;
+	transform: scale(0.95);
+}
+
+.content button3:hover
+{
+	cursor: pointer;
+	background-color: black;
+	transform: scale(0.95);
+}
+
+.content button4:hover
+{
+	cursor: pointer;
+	background-color: black;
+	transform: scale(0.95);
+}
+
+
+.content a
+{
+	text-decoration: none;
+	color: white;
+}
+
+.zestawienie
+{
+	margin-top: 15px;
+	font-family: 'Cabin Condensed', sans-serif;
+	font-size: 15px;
+	letter-spacing: 1px;
+	float: left;
+	padding: 15px 10px;
+	position: relative;
+	left: -20px;
+	
+	
+	
+	
+}
+
+.zestawienie2
+{
+	margin-top: 15px;
+	font-family: 'Cabin Condensed', sans-serif;
+	font-size: 15px;
+	letter-spacing: 1px;
+	float: left;
+	padding: 15px 10px;
+	margin-left: 80px;
+	position: relative;
+	left: -20px;
+}
+
+.zestawienie3
+{
+	margin-top: 45px;
+	font-family: 'Cabin Condensed', sans-serif;
+	font-size: 15px;
+	letter-spacing: 1px;
+	float: left;
+	padding: 15px 10px;
+	margin-left: -5px;
+	position: relative;
+	left: -20px;
+	
+}
+
+.zestawienie4
+{
+	margin-top: 45px;
+	font-family: 'Cabin Condensed', sans-serif;
+	font-size: 15px;
+	letter-spacing: 1px;
+	float: left;
+	padding: 15px 10px;
+	margin-left: 120px;
+	position: relative;
+	left: -20px;
+	
+	
+}
+
+.zestawienie5
+{
+	margin-top: 150px;
+	font-family: 'Cabin Condensed', sans-serif;
+	font-size: 15px;
+	letter-spacing: 1px;
+	float: left;
+	padding: 15px 10px;
+	margin-left: 2px;
+	position: relative;
+	left: -20px;
+	
+}
+
+.zestawienie6
+{
+	margin-top: 150px;
+	font-family: 'Cabin Condensed', sans-serif;
+	font-size: 15px;
+	letter-spacing: 1px;
+	float: left;
+	padding: 15px 10px;
+	margin-left: 45px;
+	position: relative;
+	left: -20px;
+	
+}
+
+.content h2
+{
+	font-family: 'Cabin Condensed', sans-serif;
+	text-align: center;
+	font-size: 30px;
+	position: relative;
+	left: -75px;
+	top: -65px;
+	display: block;
+	background-image: url(img/zig.png);
+	color: white;
+	border-radius: 55px;
+	padding: 15px;
+	letter-spacing: 2px;
+}
+
+.content h2:hover
+{
+	font-family: 'Cabin Condensed', sans-serif;
+	text-align: center;
+	font-size: 30px;
+	position: relative;
+	left: -75px;
+	top: -65px;
+	display: block;
+	background-color: #008080;
+	color: #DAA520;
+	border-radius: 55px;
+	padding: 15px;
+	letter-spacing: 2px;
+	
+}
+
+.content1 h2
+{
+	font-family: 'Cabin Condensed', sans-serif;
+	text-align: center;
+	font-size: 30px;
+	position: relative;
+	left: 285px;
+	top: -10px;
+	display: block;
+	background-image: url(img/zig.png);
+	color: white;
+	border-radius: 55px;
+	padding: 13px;
+	letter-spacing: 2px;
+}
+
+.content1 h2:hover
+{
+	font-family: 'Cabin Condensed', sans-serif;
+	text-align: center;
+	font-size: 30px;
+	position: relative;
+	left: 285px;
+	top: -10px;
+	display: block;
+	background-color: #008080;
+	color: #DAA520;
+	border-radius: 55px;
+	padding: 13px;
+	letter-spacing: 2px;
+	
+}
+
+
+
+
+
+.footer
+{
+	background-color: #0d0d0d;
+	color: white;
+	padding: 100px;
+	text-align: center;
+	font-family: 'Cabin Condensed', sans-serif;
+	font-size: 18px;
+    
+	
+	
+}
+
+
+.imghover
+{
+	transition: transform 0.4s ease-in-out;
+}
+
+.imghover:hover
+{
+	transform: scale(0.9);
+}
+
+.p1
+{
+	
+	font-family: 'Cabin Condensed', sans-serif;
+	font-weight: 700;
+	position: relative;
+	left: 50px;
+	margin-bottom: -250px;
+	top: 50px;
+}
+
+
+
+.p1 h1
+{
+	position: relative;
+	left: 15px;
+	
+	
+}
+
+.p1 p
+{
+	max-width: 380px;
+	position: relative;
+	top: -380px;
+	left: 320px;
+	text-align: justify;
+	font-weight: 400;
+	font-size: 14px;
+	
+}
+
+.dziela
+{
+	position: relative;
+	left: 720px;
+	top: -700px;
+}
+
+.dziela p
+{
+	position: relative;
+	top: 50px;
+	left: 90px;
+	font-weight: 700;
+	text-decoration: underline;
+}
+
+.content dziela
+{
+	max-width: 300px;
+}
+
+.ciekawostki
+{
+	font-family: 'Cabin Condensed', sans-serif;
+	text-align: center;
+	font-size: 20px;
+	font-weight: 700;
+	position: relative;
+	left: -75px;
+}
+
+.dziela hr
+{
+	position: relative;
+	left: -550px;
+	top: 350px;
+	width: 650px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
